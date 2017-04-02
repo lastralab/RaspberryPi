@@ -26,7 +26,7 @@ The file is attached (up)
 
 Blinking LED:
 
-![whatsapp image 2017-04-02 at 17 42 49](https://cloud.githubusercontent.com/assets/22894897/24590903/0dda8e94-17cc-11e7-9e66-e3dab4730d3a.jpeg)
+![blink](https://cloud.githubusercontent.com/assets/22894897/24591015/3ce471b2-17ce-11e7-8086-0284d7a9dcc4.gif)
 
 Using VNC Viewer to control the program from i-phone:
 
