@@ -30,4 +30,4 @@ Using VNC Viewer to control the program from i-phone:
 
 ![whatsapp image 2017-04-02 at 17 43 20](https://cloud.githubusercontent.com/assets/22894897/24590905/12a9699a-17cc-11e7-8b2c-2034ce222da1.jpeg)
 
-Download VNC Viewer from here: https://www.realvnc.com/download/viewer/ and you can control anything from your phone.
+Download VNC Viewer from here: https://www.realvnc.com/download/viewer/ and you can control anything from your phone... get creative!
