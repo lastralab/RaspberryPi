@@ -1,6 +1,6 @@
 # ![raspberry-logo](https://cloud.githubusercontent.com/assets/22894897/24567005/2d7de462-1632-11e7-978e-0afaa0e707ae.png)
 
-Learning the Raspberry Pi Platform and Python Programming
+First step:
 
 # Blink example
 
