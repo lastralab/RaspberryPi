@@ -14,6 +14,10 @@ Pin Reference:
 
 ![header_pinout-2](https://cloud.githubusercontent.com/assets/22894897/24590712/70a0ade6-17c8-11e7-8bee-d1370a0c90c5.jpg)
 
+Schematics:
+
+<img width="772" alt="screenshot 2017-04-02 19 18 12" src="https://cloud.githubusercontent.com/assets/22894897/24591505/2e5df40a-17d9-11e7-9130-8daf0b649265.png">
+
 Python Code:
 
 ![screenshot 2017-04-02 17 23 39](https://cloud.githubusercontent.com/assets/22894897/24590749/2677c58c-17c9-11e7-975d-485d35c95aab.png)
