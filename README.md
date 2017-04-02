@@ -24,14 +24,12 @@ Python Code:
 
 The file is attached (up)
 
-Blinking LED:
-
-![blink](https://cloud.githubusercontent.com/assets/22894897/24591015/3ce471b2-17ce-11e7-8086-0284d7a9dcc4.gif)
-
 Using VNC Viewer to control the program from i-phone:
 
 ![whatsapp image 2017-04-02 at 17 41 49](https://cloud.githubusercontent.com/assets/22894897/24590902/09942084-17cc-11e7-8dc2-abdb8249af2c.jpeg)
 
 ![whatsapp image 2017-04-02 at 17 43 20](https://cloud.githubusercontent.com/assets/22894897/24590905/12a9699a-17cc-11e7-8b2c-2034ce222da1.jpeg)
+
+![blink](https://cloud.githubusercontent.com/assets/22894897/24591015/3ce471b2-17ce-11e7-8086-0284d7a9dcc4.gif)
 
 Download VNC Viewer from here: https://www.realvnc.com/download/viewer/ so now you can control everything from your phone... get creative!
