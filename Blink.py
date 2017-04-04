@@ -9,10 +9,10 @@ import time
 # blinking function
 
 def blink(pin):
-    GPIO.output(40, GPIO.HIGH)
+    GPIO.output(40, true)
     print("LED is on")
     time.sleep(1)
-    GPIO.output(40, GPIO.LOW)
+    GPIO.output(40, false)
     print("LED is off")
     time.sleep(1)
     return
