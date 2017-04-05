@@ -2,7 +2,9 @@
 
 First step:
 
-# Blink example
+# Blink + Pushbutton example
+
+![blink](https://cloud.githubusercontent.com/assets/22894897/24591015/3ce471b2-17ce-11e7-8086-0284d7a9dcc4.gif)
 
 Wiring:
 
@@ -12,14 +14,6 @@ Pin Reference:
 
 ![header_pinout-2](https://cloud.githubusercontent.com/assets/22894897/24590712/70a0ade6-17c8-11e7-8bee-d1370a0c90c5.jpg)
 
-Python Code:
-
-![screenshot 2017-04-02 17 23 39](https://cloud.githubusercontent.com/assets/22894897/24590749/2677c58c-17c9-11e7-975d-485d35c95aab.png)
-
-Blinking:
-
-![blink](https://cloud.githubusercontent.com/assets/22894897/24591015/3ce471b2-17ce-11e7-8086-0284d7a9dcc4.gif)
-
 Using VNC Viewer to control the program from your phone:
 
 ![whatsapp image 2017-04-02 at 17 41 49](https://cloud.githubusercontent.com/assets/22894897/24590902/09942084-17cc-11e7-8dc2-abdb8249af2c.jpeg)
@@ -28,16 +22,10 @@ Using VNC Viewer to control the program from your phone:
 
 Download VNC Viewer from here: https://www.realvnc.com/download/viewer/ and get creative!
 
-# Controlling LED with Pushbutton
-
-Wiring:
-
-<img width="855" alt="screenshot 2017-04-04 07 54 17" src="https://cloud.githubusercontent.com/assets/22894897/24653382/f9dca850-190b-11e7-9d8b-78da46074827.png">
-
 Python Code:
 
-![screenshot 2017-04-04 07 57 37](https://cloud.githubusercontent.com/assets/22894897/24653480/64441200-190c-11e7-899f-4985a25e9765.png)
+![screenshot 2017-04-04 21 38 10](https://cloud.githubusercontent.com/assets/22894897/24684789/05216df4-197f-11e7-9d44-9f12cea677f9.png)
 
-Result:
+Demo:
 
-![ledpush](https://cloud.githubusercontent.com/assets/22894897/24653877/05453b42-190e-11e7-872c-876bf6510cbd.gif)
+![ledpush](https://cloud.githubusercontent.com/assets/22894897/24684928/4078caa4-1980-11e7-88bc-0ea03ba793ac.gif)
