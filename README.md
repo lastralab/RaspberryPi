@@ -1,8 +1,8 @@
 # ![raspberry-logo](https://cloud.githubusercontent.com/assets/22894897/24567005/2d7de462-1632-11e7-978e-0afaa0e707ae.png)
 
-First step:
-
 # Blink + Pushbutton example
+
+First step:
 
 ![blink](https://cloud.githubusercontent.com/assets/22894897/24591015/3ce471b2-17ce-11e7-8086-0284d7a9dcc4.gif)
 
