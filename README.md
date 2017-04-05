@@ -6,7 +6,7 @@ First step:
 
 Wiring:
 
-<img width="809" alt="screenshot 2017-04-02 17 16 04" src="https://cloud.githubusercontent.com/assets/22894897/24590714/7c959ada-17c8-11e7-8fa7-d6a689882ba7.png">
+<img width="1047" alt="screenshot 2017-04-04 21 32 03" src="https://cloud.githubusercontent.com/assets/22894897/24684682/2db7b152-197e-11e7-8574-b607c2d0940f.png">
 
 Pin Reference:
 
