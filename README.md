@@ -23,7 +23,6 @@ Download VNC Viewer from here: https://www.realvnc.com/download/viewer/ and get 
 Python Code:
 
 ![](http://i.imgur.com/ZXtBfKC.jpg)
-
 Demo:
 
 ![ledpush](https://cloud.githubusercontent.com/assets/22894897/24684928/4078caa4-1980-11e7-88bc-0ea03ba793ac.gif)
