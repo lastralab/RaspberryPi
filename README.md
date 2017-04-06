@@ -22,7 +22,7 @@ Download VNC Viewer from here: https://www.realvnc.com/download/viewer/ and get 
 
 Python Code:
 
-![screenshot 2017-04-04 21 50 05](https://cloud.githubusercontent.com/assets/22894897/24684972/bcdef19a-1980-11e7-923d-f8388a0d9f0c.png)
+![](http://i.imgur.com/ZXtBfKC.jpg)
 
 Demo:
 
