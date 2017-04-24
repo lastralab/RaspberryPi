@@ -22,7 +22,7 @@ Download VNC Viewer from here: https://www.realvnc.com/download/viewer/ and get 
 
 Python Code:
 
-![](http://i.imgur.com/ZXtBfKC.jpg)
+![ps](https://cloud.githubusercontent.com/assets/22894897/25349763/4ed426ba-28f9-11e7-907f-ca81ef5404fb.jpeg)
 
 Demo:
 
