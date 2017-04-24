@@ -30,7 +30,7 @@ Demo:
 
 # Write a simple web server
 
-
+'''python
 import socket
 import sys
 
@@ -56,5 +56,5 @@ while True:
 
 conn.close()
 ms.close()
-
+'''python
     
