@@ -62,3 +62,44 @@ You access the socket through a terminal window and send messages to the server.
 
 ![rpi](https://cloud.githubusercontent.com/assets/22894897/25349520/877bdd2e-28f8-11e7-9afb-ed8e3ee77dc6.png)
 
+# Tweeting from Raspberry Pi
+
+You need:
+
+-A twitter account
+
+-Go to www.apps.twitter.com
+
+-Create your app
+
+-Create your python program and run it from your raspberry pi
+
+```python
+from twython import Twython, TwythonError
+
+#be sure to keep these keys safe or else, everybody could access to your twitter account
+
+C_KEY = "your own API KEY"
+C_SECRET= "your API SECRET"
+A_TOKEN = "your ACCESS TOKEN"
+A_SECRET = "your ACCESS TOKEN SECRET"
+
+pipitan = Twython(C_KEY, C_SECRET, A_TOKEN, A_SECRET)
+message= 'This is my Raspberry Pi tweeting. #myFirstTweet'
+try:
+    pipitan.update_status(status= message)
+except TwythonError as e:
+    print e
+
+print(status +" ------tweeted")
+```
+
+Tweeting from Raspberry Pi:
+
+![2017-04-24-200516_1280x720_scrot](https://cloud.githubusercontent.com/assets/22894897/25362493/872b42f6-292a-11e7-83b7-35ffa2cc3eb1.png)
+
+#myFirstTweet:
+
+<img width="1196" alt="screenshot 2017-04-24 20 07 03" src="https://cloud.githubusercontent.com/assets/22894897/25362499/8e263930-292a-11e7-912c-cd171d003f5e.png">
+
+Please, do not follow me.
