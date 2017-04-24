@@ -77,7 +77,7 @@ You need:
 ```python
 from twython import Twython, TwythonError
 
-#be sure to keep these keys safe or else, everybody could access to your twitter account
+#be sure to keep these keys safe or else, everybody could manage your twitter account
 
 C_KEY = "your own API KEY"
 C_SECRET= "your API SECRET"
