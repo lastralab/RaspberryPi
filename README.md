@@ -100,6 +100,6 @@ Tweeting from Raspberry Pi:
 
 #myFirstTweet:
 
-<img width="1196" alt="screenshot 2017-04-24 20 07 03" src="https://cloud.githubusercontent.com/assets/22894897/25362499/8e263930-292a-11e7-912c-cd171d003f5e.png">
+<img width="594" alt="screenshot 2017-04-24 20 21 08" src="https://cloud.githubusercontent.com/assets/22894897/25362655/9ea4f6a6-292b-11e7-8719-badfd98b3fbd.png">
 
 Please, do not follow me.
