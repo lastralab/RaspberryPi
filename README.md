@@ -58,6 +58,7 @@ while True:
 conn.close()
 ms.close()
 ```
+You access the socket through a terminal window and send messages to the server.
 
 ![rpi](https://cloud.githubusercontent.com/assets/22894897/25349520/877bdd2e-28f8-11e7-9afb-ed8e3ee77dc6.png)
 
