@@ -29,6 +29,7 @@ Demo:
 ![ledpush](https://cloud.githubusercontent.com/assets/22894897/24684928/4078caa4-1980-11e7-88bc-0ea03ba793ac.gif)
 
 # Write a simple web server
+Print "Got a request" on Raspberry Pi screen when the server has received a request.
 
 ```python
 import socket
@@ -57,4 +58,6 @@ while True:
 conn.close()
 ms.close()
 ```
-    
+
+![rpi](https://cloud.githubusercontent.com/assets/22894897/25349520/877bdd2e-28f8-11e7-9afb-ed8e3ee77dc6.png)
+
