@@ -28,7 +28,7 @@ Demo:
 
 ![ledpush](https://cloud.githubusercontent.com/assets/22894897/24684928/4078caa4-1980-11e7-88bc-0ea03ba793ac.gif)
 
-# Write a simple web server
+# Write a simple server
 Print "Got a request" on Raspberry Pi screen when the server has received a request.
 
 ```python
