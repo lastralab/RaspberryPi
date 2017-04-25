@@ -103,3 +103,39 @@ Tweeting from Raspberry Pi:
 <img width="594" alt="screenshot 2017-04-24 20 21 08" src="https://cloud.githubusercontent.com/assets/22894897/25362655/9ea4f6a6-292b-11e7-8719-badfd98b3fbd.png">
 
 Please, do not follow me.
+
+# Counting tweets
+
+Python code:
+
+```python
+from twython import TwythonStreamer
+
+C_K = "your key"
+C_S = "your secret key"
+A_T = "your token"
+A_S = "your secret token"
+
+tweetcount = 0
+def increment():
+    global tweetcount
+    tweetcount = tweetcount+1
+
+class MyStreamer(TwythonStreamer):
+    def on_success(self, data):
+        text = 'text'
+        for text in data:
+            increment()
+            print(tweetcount)
+            break
+        if tweetcount == 3:
+            print("I have to pee a lot")
+            
+stream = MyStreamer(C_K, C_S, A_T, A_S)
+stream.statuses.filter(track="I have to pee")
+```
+
+Demo:
+
+![twc](https://cloud.githubusercontent.com/assets/22894897/25403920/5f1cc032-29d4-11e7-8b37-38bbe1d8473b.gif)
+
