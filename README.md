@@ -1,4 +1,4 @@
-# ![raspberry-logo](https://cloud.githubusercontent.com/assets/22894897/24567005/2d7de462-1632-11e7-978e-0afaa0e707ae.png)
+![raspberry-logo](https://cloud.githubusercontent.com/assets/22894897/24567005/2d7de462-1632-11e7-978e-0afaa0e707ae.png)
 
 # Blink + Pushbutton example
 
@@ -23,6 +23,8 @@ Download VNC Viewer from here: https://www.realvnc.com/download/viewer/ and get 
 Python Code:
 
 ![ps](https://cloud.githubusercontent.com/assets/22894897/25349763/4ed426ba-28f9-11e7-907f-ca81ef5404fb.jpeg)
+
+The instruction is that the LED must be blinking until you press the button.  When you press the button it has to be turned on until you release the button.
 
 Demo:
 
