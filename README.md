@@ -141,3 +141,44 @@ Demo:
 
 ![twc](https://cloud.githubusercontent.com/assets/22894897/25403920/5f1cc032-29d4-11e7-8b37-38bbe1d8473b.gif)
 
+# Use PWM to make a LED fade
+
+The Wiring:
+
+<img width="846" alt="screenshot 2017-04-28 10 46 52" src="https://cloud.githubusercontent.com/assets/22894897/25531429/03b874ec-2c00-11e7-9c07-6d8391e297ee.png">
+
+Python Code:
+
+```python
+import RPi.GPIO as GPIO
+import time
+GPIO.setwarnings(False)
+GPIO.setmode(GPIO.BOARD)
+GPIO.setup(12, GPIO.OUT)
+pwm = GPIO.PWM(12, 50)
+pwm.start(0)
+print("Let's fade!")
+try:
+    while True:
+        for i in range(100):
+            pwm.ChangeDutyCycle(i)
+            time.sleep(0.02)
+        for i in range(100, 0, -1):
+            pwm.ChangeDutyCycle(i)
+            time.sleep(0.02)
+except KeyboardInterrupt:
+    GPIO.cleanup() #Ctrl+C to exit
+    print("Good bye!")
+```
+
+Program working:
+
+![2017-04-28-104910_1280x720_scrot](https://cloud.githubusercontent.com/assets/22894897/25531578/a8b5001e-2c00-11e7-8a7f-e0f6c08b3767.png) 
+
+You can press Ctrl+C to exit:
+
+<img width="596" alt="screenshot 2017-04-28 10 51 11" src="https://cloud.githubusercontent.com/assets/22894897/25531607/c03d5f56-2c00-11e7-98f8-98d2e7eab4ae.png">
+
+Demo:
+
+![pwm](https://cloud.githubusercontent.com/assets/22894897/25531226/62744ea8-2bff-11e7-9dcb-4448d6543105.gif)
