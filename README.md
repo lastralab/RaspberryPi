@@ -141,7 +141,7 @@ Demo:
 
 ![twc](https://cloud.githubusercontent.com/assets/22894897/25403920/5f1cc032-29d4-11e7-8b37-38bbe1d8473b.gif)
 
-# Use PWM to make a LED fade
+# Use PWM to make an LED fade
 
 The Wiring:
 
