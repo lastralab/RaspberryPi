@@ -44,7 +44,7 @@ print(msinfo[3][4])
 try:
     ms.bind(msinfo[3][4])
 except socket.error:
-    print("Failed to bind")
+    print"Failed to bind"
     sys.exit()
 ms.listen(5)
 
@@ -53,9 +53,9 @@ while True:
     data = conn.recv(1024)
     if not data:
         break
-    print("Got a request!")
+    print "Got a request!"
 
-    print (data)
+    print data
 
 conn.close()
 ms.close()
@@ -93,7 +93,7 @@ try:
 except TwythonError as e:
     print e
 
-print(status +" ------tweeted")
+print status +" ------tweeted"
 ```
 
 Tweeting from Raspberry Pi:
@@ -128,10 +128,10 @@ class MyStreamer(TwythonStreamer):
         text = 'text'
         for text in data:
             increment()
-            print(tweetcount)
+            print tweetcount
             break
         if tweetcount == 3:
-            print("I have to pee a lot")
+            print"I have to pee a lot"
             
 stream = MyStreamer(C_K, C_S, A_T, A_S)
 stream.statuses.filter(track="I have to pee")
@@ -157,7 +157,7 @@ GPIO.setmode(GPIO.BOARD)
 GPIO.setup(12, GPIO.OUT)
 pwm = GPIO.PWM(12, 50)
 pwm.start(0)
-print("Let's fade!")
+print "Let's fade!"
 try:
     while True:
         for i in range(100):
@@ -168,7 +168,7 @@ try:
             time.sleep(0.02)
 except KeyboardInterrupt:
     GPIO.cleanup() #Ctrl+C to exit
-    print("Good bye!")
+    print "Good bye!"
 ```
 
 Program working:
