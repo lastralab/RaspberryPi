@@ -16,7 +16,7 @@ Pin Reference:
 
 Using VNC Viewer to control the Raspberry Pi from your phone:
 
-<img src="https://cloud.githubusercontent.com/assets/22894897/24590902/09942084-17cc-11e7-8dc2-abdb8249af2c.jpep" width="50%">
+<img src="https://cloud.githubusercontent.com/assets/22894897/24590902/09942084-17cc-11e7-8dc2-abdb8249af2c.jpeg" width="50%" height="50%">
 
 Download VNC Viewer from here: https://www.realvnc.com/download/viewer/ and get creative!
 
