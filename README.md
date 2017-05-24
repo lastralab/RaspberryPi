@@ -12,7 +12,7 @@ Wiring:
 
 Pin Reference:
 
-![header_pinout-2](https://cloud.githubusercontent.com/assets/22894897/24590712/70a0ade6-17c8-11e7-8bee-d1370a0c90c5.jpg)
+<img src="https://cloud.githubusercontent.com/assets/22894897/24590712/70a0ade6-17c8-11e7-8bee-d1370a0c90c5.jpg" width="65%" height="65%"/>
 
 Using VNC Viewer to control the Raspberry Pi from your phone:
 
