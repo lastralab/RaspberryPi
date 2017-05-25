@@ -208,4 +208,4 @@ You can press Ctrl+C to exit:
 
 Demo:
 
-<img width="130%" height="130%" src="https://cloud.githubusercontent.com/assets/22894897/25531226/62744ea8-2bff-11e7-9dcb-4448d6543105.gif"/>
+<img width="110%" height="110%" src="https://cloud.githubusercontent.com/assets/22894897/25531226/62744ea8-2bff-11e7-9dcb-4448d6543105.gif"/>
