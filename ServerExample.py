@@ -1,3 +1,5 @@
+#Author: Niam Moltta
+
 import socket
 import sys
 
