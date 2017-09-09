@@ -24,6 +24,7 @@ Python Code:
 
 ```python
 #Pushbutton + LED
+#Author: Niam Moltta
 
 import RPi.GPIO as GPIO
 import time
@@ -61,6 +62,8 @@ Demo:
 Print "Got a request" on Raspberry Pi screen when the server has received a request.
 
 ```python
+#Author: Niam Moltta
+
 import socket
 import sys
 
@@ -138,6 +141,8 @@ Please, do not follow me.
 Python code:
 
 ```python
+#Author: Niam Moltta
+
 from twython import TwythonStreamer
 
 C_K = "your key"
@@ -177,6 +182,8 @@ The Wiring:
 Python Code:
 
 ```python
+#Author: Niam Moltta
+
 import RPi.GPIO as GPIO
 import time
 GPIO.setwarnings(False)
