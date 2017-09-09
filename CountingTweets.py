@@ -1,4 +1,4 @@
-
+#Author: Niam Moltta
 from twython import TwythonStreamer
 
 C_K = "your key"
