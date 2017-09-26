@@ -1,4 +1,7 @@
-#Author: Niam Moltta
+# Author: Niam Moltta
+# UY-2017
+# From Raspberry Pi to Twitter and viceversa
+
 from twython import TwythonStreamer
 
 C_K = "your key"
