@@ -132,9 +132,7 @@ Tweeting from Raspberry Pi:
 
 #myFirstTweet:
 
-<img width="594" alt="screenshot 2017-04-24 20 21 08" src="https://cloud.githubusercontent.com/assets/22894897/25362655/9ea4f6a6-292b-11e7-8719-badfd98b3fbd.png">
-
-Please, do not follow me.
+<img width="594" alt="screenshot 2017-04-24 20 21 08" src="https://user-images.githubusercontent.com/22894897/31022736-1500c4be-a510-11e7-8d65-6bae73ad1af1.png">
 
 # Counting tweets
 
